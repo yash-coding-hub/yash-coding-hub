@@ -91,13 +91,13 @@ Goal:
 
    
 
-<a href="https://linkedin.com">
+<a href="https://www.linkedin.com/in/yash-sharma-ab2855271/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
    
 
-<a href="mailto:yourmail@gmail.com">
+<a href="sharmayash7100@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
