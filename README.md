@@ -1,11 +1,10 @@
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Yash+Sharma;Full+Stack+Developer;C%2B%2B+%7C+DSA+%7C+React;Building+Cool+Things+With+Code;Welcome+To+My+Purple+Universe+💜" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=32&pause=1000&color=8A2BE2&center=true&vCenter=true&width=1000&lines=DOMAIN+EXPANSION+:+LIMITLESS+CODE;YASH+SHARMA;FULL+STACK+DEVELOPER;C%2B%2B+%7C+DSA+%7C+REACT;TURNING+IDEAS+INTO+REALITY;WELCOME+TO+MY+PURPLE+UNIVERSE+💜" />
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=YASH%20CODING%20HUB&fontSize=50&fontColor=ffffff&animation=twinkling&color=0:14001f,50:4B0082,100:8A2BE2"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=YASH%20CODING%20HUB&fontSize=55&fontColor=ffffff&animation=fadeIn&color=0:090011,30:2D0A4E,70:6A0DAD,100:8A2BE2"/>
 
 </div>
 
@@ -69,6 +68,16 @@ Status: Learning • Building • Improving
 
 ---
 
+<h2 align="center">📈 Contribution Graph</h2>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yash-coding-hub&bg_color=0d1117&color=8A2BE2&line=C77DFF&point=FFFFFF&area=true&hide_border=true"/>
+
+</div>
+
+---
+
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <div align="center">
@@ -120,9 +129,21 @@ Status: Learning • Building • Improving
 <img src="https://img.shields.io/badge/GitHub-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="mailto:yourmail@example.com">
-<img src="https://img.shields.io/badge/Email-6A0DAD?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://www.linkedin.com/in/yash-sharma-ab2855271/">
+<img src="https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+<a href="sharmayash7100@gmail.com">
+<img src="https://img.shields.io/badge/Email-4B0082?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 </div>
 
@@ -136,6 +157,6 @@ Status: Learning • Building • Improving
 
 ### 💜 Thanks For Visiting My Profile 💜
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:14001f,50:4B0082,100:8A2BE2"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:090011,30:2D0A4E,70:6A0DAD,100:8A2BE2"/>
 
 </div>
