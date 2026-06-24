@@ -1,8 +1,4 @@
-<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=32&pause=1000&color=8A2BE2&center=true&vCenter=true&width=1000&lines=DOMAIN+EXPANSION+:+LIMITLESS+CODE;YASH+SHARMA;FULL+STACK+DEVELOPER;C%2B%2B+%7C+DSA+%7C+REACT;TURNING+IDEAS+INTO+REALITY;WELCOME+TO+MY+PURPLE+UNIVERSE+💜" />
-
-<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=YASH%20CODING%20HUB&fontSize=55&fontColor=ffffff&animation=fadeIn&color=0:090011,30:2D0A4E,70:6A0DAD,100:8A2BE2"/>
 
