@@ -1,16 +1,56 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Yash Sharma</h1>
 
-<!--
-**yash-coding-hub/yash-coding-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">C++ Developer | DSA Enthusiast | Competitive Programmer</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=25&center=true&vCenter=true&width=700&lines=Competitive+Programmer;C%2B%2B+Developer;DSA+Enthusiast;Future+Software+Engineer">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+* 🌱 Currently solving LeetCode daily
+* 💻 Strong in C++
+* 🎯 Preparing for Software Engineering placements
+* 📚 Learning DSA, CP and Development
+
+---
+
+## 🛠️ Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,python,git,github,vscode,linux" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yash-coding-hub\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yash-coding-hub\&layout=compact\&theme=tokyonight)
+
+---
+
+## 🔥 Streak Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=yash-coding-hub\&theme=tokyonight)
+
+---
+
+## 📈 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yash-coding-hub\&theme=tokyo-night)
+
+---
+
+## 🏆 GitHub Trophies
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=yash-coding-hub\&theme=tokyonight)
+
+---
+
+### 📫 Connect With Me
+
+* GitHub: https://github.com/yash-coding-hub
