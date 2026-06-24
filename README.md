@@ -1,12 +1,13 @@
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12,20,24,27&text=YASH%20SHARMA&fontColor=ffffff&fontSize=60&animation=fadeIn&desc=Full%20Stack%20Developer%20|%20C++%20|%20DSA&descAlignY=65"/>
-</p>
 
-<h1 align="center">💜 Welcome to My Digital Universe 💜</h1>
+<div align="center">
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;C%2B%2B+Programmer;DSA+Enthusiast;React+%7C+Node.js+%7C+Express.js;Building+Projects+%26+Solving+Problems;Always+Learning+Something+New" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Yash+Sharma;Full+Stack+Developer;C%2B%2B+%7C+DSA+%7C+React;Building+Cool+Things+With+Code;Welcome+To+My+Purple+Universe+💜" />
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=YASH%20CODING%20HUB&fontSize=50&fontColor=ffffff&animation=twinkling&color=0:14001f,50:4B0082,100:8A2BE2"/>
+
+</div>
 
 ---
 
@@ -16,103 +17,125 @@
 Name: Yash Sharma
 Role: Full Stack Developer
 Languages: C++, JavaScript
+Frontend: HTML, CSS, Bootstrap, React
+Backend: Node.js, Express.js
 Database: MySQL
-Current Focus:
-  - Data Structures & Algorithms
-  - Full Stack Development
-  - Problem Solving
-Goal:
-  - Crack Product Based Companies
+Focus: DSA, OOP, Web Development
+Status: Learning • Building • Improving
 ```
 
 ---
 
-# ⚡ Tech Stack
+<h2 align="center">⚡ Tech Stack</h2>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,react,nodejs,express,mysql,cpp,git,github,vscode" />
-</p>
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nodejs,express,mysql,cpp,git,github,vscode&theme=dark" />
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yash-coding-hub&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://streak-stats.demolab.com?user=yash-coding-hub&theme=tokyonight&hide_border=true"/>
-
-</p>
+</div>
 
 ---
 
-# 📈 Contribution Graph
+<h2 align="center">🚀 Current Focus</h2>
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yash-coding-hub&bg_color=0d1117&color=A855F7&line=9333EA&point=C084FC&area=true&hide_border=true"/>
-</p>
+<div align="center">
 
----
+🌌 Full Stack Development  
+⚡ Data Structures & Algorithms  
+💜 Open Source Contributions  
+🚀 Building Real World Projects
 
-# 🌌 Most Used Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash-coding-hub&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+</div>
 
 ---
 
-# 🏆 GitHub Achievements
+<h2 align="center">📊 GitHub Analytics</h2>
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=yash-coding-hub&theme=discord&no-frame=true&row=1&column=6"/>
-</p>
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yash-coding-hub&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=00000000"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yash-coding-hub&theme=midnight-purple&hide_border=true&background=00000000"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash-coding-hub&layout=compact&theme=midnight-purple&hide_border=true&bg_color=00000000"/>
+
+</div>
 
 ---
 
-# 🚀 Current Goals
+<h2 align="center">🏆 GitHub Trophies</h2>
 
-* 📚 Solve 500+ LeetCode Problems
-* ⚡ Master DSA & Competitive Programming
-* 🌐 Build Full Stack Applications
-* 🤝 Contribute to Open Source
-* 🏆 Become a Top Software Engineer
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=yash-coding-hub&theme=discord&no-frame=true&row=1&column=7"/>
+
+</div>
 
 ---
 
-# 📫 Connect With Me
+<h2 align="center">🐍 Contribution Snake</h2>
 
-<p align="center">
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+
+</div>
+
+---
+
+<h2 align="center">🌌 Developer Journey</h2>
+
+```text
+███████╗ Full Stack Development
+█████░░╗ React & Frontend
+████░░░╗ Node.js & Backend
+███░░░░╗ Database Design
+███████╗ DSA & Competitive Programming
+```
+
+---
+
+<h2 align="center">💫 Quote</h2>
+
+<div align="center">
+
+> "The strongest developers are not those who never fail,
+> but those who never stop learning."
+
+</div>
+
+---
+
+<h2 align="center">🌐 Connect With Me</h2>
+
+<div align="center">
 
 <a href="https://github.com/yash-coding-hub">
-<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://img.shields.io/badge/GitHub-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-   
-
-<a href="https://www.linkedin.com/in/yash-sharma-ab2855271/">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<a href="mailto:yourmail@example.com">
+<img src="https://img.shields.io/badge/Email-6A0DAD?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-   
-
-<a href="sharmayash7100@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
-</p>
+</div>
 
 ---
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=yash-coding-hub&color=blueviolet&style=for-the-badge"/>
-</p>
+<div align="center">
 
-<h3 align="center">
-💜 Code • Learn • Build • Repeat 💜
-</h3>
+<img src="https://komarev.com/ghpvc/?username=yash-coding-hub&label=PROFILE+VIEWS&color=8A2BE2&style=for-the-badge"/>
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,20,24,27"/>
-</p>
+<br><br>
+
+### 💜 Thanks For Visiting My Profile 💜
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:14001f,50:4B0082,100:8A2BE2"/>
+
+</div>
