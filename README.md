@@ -88,16 +88,6 @@ Status: Learning • Building • Improving
 
 ---
 
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
-
-</div>
-
----
-
 <h2 align="center">🌌 Developer Journey</h2>
 
 ```text
