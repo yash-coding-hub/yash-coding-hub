@@ -1,56 +1,100 @@
-<h1 align="center">Hi 👋, I'm Yash Sharma</h1>
-
-<h3 align="center">C++ Developer | DSA Enthusiast | Competitive Programmer</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Domain+Expansion+:+Infinite+Coding;Hi+I'm+Yash+Sharma;Full+Stack+Developer;DSA+%7C+C%2B%2B+%7C+React+%7C+Node.js" />
+</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=25&center=true&vCenter=true&width=700&lines=Competitive+Programmer;C%2B%2B+Developer;DSA+Enthusiast;Future+Software+Engineer">
+  <img src="https://media.giphy.com/media/4ilFRqgbzbx4c/giphy.gif" width="100%"/>
 </p>
 
 ---
 
-## 🚀 About Me
+# ⚡ About Me
 
-* 🌱 Currently solving LeetCode daily
-* 💻 Strong in C++
-* 🎯 Preparing for Software Engineering placements
-* 📚 Learning DSA, CP and Development
+```yaml
+Name: Yash Sharma
+Title: Full Stack Developer
+Mission: Crack Top Product Based Companies
+Special Grade Skills:
+  - C++
+  - DSA
+  - OOPs
+  - React
+  - Node.js
+  - Express.js
+  - MySQL
+```
 
 ---
 
-## 🛠️ Tech Stack
+# 🧙 Tech Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,python,git,github,vscode,linux" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,react,nodejs,express,mysql,cpp,git,github,vscode" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yash-coding-hub\&show_icons=true\&theme=tokyonight)
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yash-coding-hub&show_icons=true&theme=tokyonight"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yash-coding-hub\&layout=compact\&theme=tokyonight)
-
----
-
-## 🔥 Streak Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=yash-coding-hub\&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash-coding-hub&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
-## 📈 Contribution Graph
+# 🔥 Streak Stats
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yash-coding-hub\&theme=tokyo-night)
-
----
-
-## 🏆 GitHub Trophies
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=yash-coding-hub\&theme=tokyonight)
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=yash-coding-hub&theme=tokyonight"/>
+</p>
 
 ---
 
-### 📫 Connect With Me
+# 📈 Domain Expansion Graph
 
-* GitHub: https://github.com/yash-coding-hub
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yash-coding-hub&theme=tokyo-night"/>
+</p>
+
+---
+
+# 🏆 Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=yash-coding-hub&theme=tokyonight&row=1&column=7"/>
+</p>
+
+---
+
+# 👁️ Visitors
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=yash-coding-hub&color=blueviolet"/>
+</p>
+
+---
+
+# 🎯 Current Goals
+
+* Solve 500+ LeetCode Problems
+* Master Data Structures & Algorithms
+* Build Full Stack Projects
+* Contribute to Open Source
+
+---
+
+# 🌐 Connect
+
+<p align="center">
+<a href="https://github.com/yash-coding-hub">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+</p>
+
+---
+
+### ⚔️ Jujutsu Motto
+
+> "The only way to win is to keep evolving."
