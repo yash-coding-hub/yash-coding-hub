@@ -1,32 +1,33 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Domain+Expansion+:+Infinite+Coding;Hi+I'm+Yash+Sharma;Full+Stack+Developer;DSA+%7C+C%2B%2B+%7C+React+%7C+Node.js" />
-</h1>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12,20,24,27&text=YASH%20SHARMA&fontColor=ffffff&fontSize=60&animation=fadeIn&desc=Full%20Stack%20Developer%20|%20C++%20|%20DSA&descAlignY=65"/>
+</p>
+
+<h1 align="center">💜 Welcome to My Digital Universe 💜</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/4ilFRqgbzbx4c/giphy.gif" width="100%"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;C%2B%2B+Programmer;DSA+Enthusiast;React+%7C+Node.js+%7C+Express.js;Building+Projects+%26+Solving+Problems;Always+Learning+Something+New" />
 </p>
 
 ---
 
-# ⚡ About Me
+# 💜 About Me
 
 ```yaml
 Name: Yash Sharma
-Title: Full Stack Developer
-Mission: Crack Top Product Based Companies
-Special Grade Skills:
-  - C++
-  - DSA
-  - OOPs
-  - React
-  - Node.js
-  - Express.js
-  - MySQL
+Role: Full Stack Developer
+Languages: C++, JavaScript
+Database: MySQL
+Current Focus:
+  - Data Structures & Algorithms
+  - Full Stack Development
+  - Problem Solving
+Goal:
+  - Crack Product Based Companies
 ```
 
 ---
 
-# 🧙 Tech Stack
+# ⚡ Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,react,nodejs,express,mysql,cpp,git,github,vscode" />
@@ -37,64 +38,81 @@ Special Grade Skills:
 # 📊 GitHub Stats
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yash-coding-hub&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash-coding-hub&layout=compact&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yash-coding-hub&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=yash-coding-hub&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-# 🔥 Streak Stats
+# 📈 Contribution Graph
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=yash-coding-hub&theme=tokyonight"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yash-coding-hub&bg_color=0d1117&color=A855F7&line=9333EA&point=C084FC&area=true&hide_border=true"/>
 </p>
 
 ---
 
-# 📈 Domain Expansion Graph
+# 🌌 Most Used Languages
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yash-coding-hub&theme=tokyo-night"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash-coding-hub&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 🏆 Achievements
+# 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=yash-coding-hub&theme=tokyonight&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=yash-coding-hub&theme=discord&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
 
-# 👁️ Visitors
+# 🚀 Current Goals
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=yash-coding-hub&color=blueviolet"/>
-</p>
-
----
-
-# 🎯 Current Goals
-
-* Solve 500+ LeetCode Problems
-* Master Data Structures & Algorithms
-* Build Full Stack Projects
-* Contribute to Open Source
+* 📚 Solve 500+ LeetCode Problems
+* ⚡ Master DSA & Competitive Programming
+* 🌐 Build Full Stack Applications
+* 🤝 Contribute to Open Source
+* 🏆 Become a Top Software Engineer
 
 ---
 
-# 🌐 Connect
+# 📫 Connect With Me
 
 <p align="center">
+
 <a href="https://github.com/yash-coding-hub">
-<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://skillicons.dev/icons?i=github" />
 </a>
+
+   
+
+<a href="https://linkedin.com">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+   
+
+<a href="mailto:yourmail@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
 </p>
 
 ---
 
-### ⚔️ Jujutsu Motto
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=yash-coding-hub&color=blueviolet&style=for-the-badge"/>
+</p>
 
-> "The only way to win is to keep evolving."
+<h3 align="center">
+💜 Code • Learn • Build • Repeat 💜
+</h3>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,20,24,27"/>
+</p>
